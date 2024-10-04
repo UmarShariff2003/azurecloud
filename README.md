@@ -1,4 +1,5 @@
-# azurecloud
+# Azure Cloud
+# Using AI Search Services
 
 In this code, I'm creating a little system where I can ask a question, and it gives me an answer using Azure OpenAI. Plus, it also pulls in extra information from my own data that’s stored in an Azure Search index. Think of it like a smart assistant that can look up specific data while answering general questions!
 
